@@ -74,6 +74,7 @@ Authentication method (SAS Tokens, Azure AD, Shared Keys)
 Snapshot policies
 Risk Assessment Methodology
 Use the following CIA-based asset-oriented checklist for each asset:
+</p>
 
 <img width="862" height="471" alt="image" src="https://github.com/user-attachments/assets/dd91be5b-d0b9-46a9-8db8-7d90fc8a1944" />
 # Sample Output Table
@@ -82,7 +83,6 @@ Use the following CIA-based asset-oriented checklist for each asset:
 
 # Result
 All active cloud storage assets across AWS and Azure have been identified and assessed for security posture based on CIA principles, access control, encryption, and risk level.
-</p>
 
 
 
